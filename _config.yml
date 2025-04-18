@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amr Ashraf"
+title                    : "Alon Alush"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Amr Ashraf"
-description              : "The Art of DFIR"
+name                     : "Alon Alush"
+description              : "Welcome to my blog!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amr Ashraf"
+  name             : "Alon Alush"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer engineer interested in reverse engineering, forensics and malware analysis "
+  bio              : "Simple blog that documents my reverse engineering / malware analysis endeavors on Windows."
   location         : "Egypt"
   email            :
   links:
@@ -104,7 +104,7 @@ author:
      # url: "https://amr-git-dot.github.io/aboutme/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:amr.ashraf.re@outlook.com"
+      url: "mailto:alonalush5@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Cyberagent101"
@@ -116,7 +116,7 @@ author:
       url: "https://www.linkedin.com/in/amr-ashraf-93bb9a1ba/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/amr-git-dot"
+      url: "https://github.com/Alon-Alush"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
